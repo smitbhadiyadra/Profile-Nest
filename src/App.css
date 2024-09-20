@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'lucky';
+  src: url('/public/LuckiestGuy.ttf');
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ 
+html,body{
+height: 100%;
+width: 100%;
+font-family: gilroy;
+}
+
+.lucky{
+  font-family: lucky;
+}
+
+@font-face {
+  font-family: BB;
+  src: url(/public/BasisGrotesquePro-Bold.ttf);
+}
+
+@font-face {
+  font-family: BM;
+  src: url(/public/BasisGrotesquePro-Medium.ttf);
+}
+
+@font-face {
+  font-family: NV;
+  src: url(/public/nevis.ttf);
+}
